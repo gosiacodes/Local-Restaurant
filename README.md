@@ -3,4 +3,4 @@ HTML project (refactoring local restaurant page) with Flexbox at HTML5 & CSS3 co
 
 With flexbox-layout, about page, menu page, gallery, contact page, and more.
 
-https://margareta75.github.io/Local-Restaurant/
+https://gosiacodes.github.io/Local-Restaurant/
